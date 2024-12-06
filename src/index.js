@@ -51,9 +51,6 @@ ${answers.description}
 - [License](#license)
 - [Questions](#questions)
 
-## Installation
-${answers.installation}
-
 ## Usage
 ${answers.usage}
 
